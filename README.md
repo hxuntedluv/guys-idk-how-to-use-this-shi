@@ -1,3 +1,2 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hxuntedluvv= ❝&color=E4BDD1&style=flat" alt="Profile views"/>
-</p>
+![Nyan Cat](https://upload.wikimedia.org/wikipedia/en/e/ed/Nyan_cat_250px_frame.PNG)
+![Profile views](https://komarev.com/ghpvc/?username=eriis&color=E4BDD1)
